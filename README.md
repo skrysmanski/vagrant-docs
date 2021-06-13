@@ -12,7 +12,7 @@ Official Quick Start: <https://learn.hashicorp.com/tutorials/vagrant/getting-sta
 
 ## Vagrant on Windows
 
-For using Vagrant on Windows, see <README_Windows.md>.
+For using Vagrant on Windows, see [README_Windows.md](README_Windows.md).
 
 ## Default Lice Cycle
 
